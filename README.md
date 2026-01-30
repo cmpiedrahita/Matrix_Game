@@ -1,4 +1,4 @@
-# 🕴️ Matrix Escape Game
+# Matrix Escape Game
 
 <div align="center">
 
